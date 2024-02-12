@@ -29,14 +29,14 @@ html {
 
 .center{
 	position: absolute;
-	width: 40%;
+	width: 42.5%;
 	height: 70%;
-	left: 50%;
+	left: 46.5%;
 	top: 50%;
 	margin-top: -18%;
 	margin-left: 5%;
 	padding: 2%;
-	background-color: rgba(0, 0, 0, 0.7);
+	background-color: rgba(0, 0, 0, 0.712);
 	color: white;
 	font-size: 1.3rem;
 	font-family: MicroExtend;
@@ -158,8 +158,8 @@ h1:before, h2:before {
 
 .top
 {
-    color: #8a8a8a;
-
+    color: #4b4a4a;
+    letter-spacing: 2.5px;
     position: absolute;
     top: 7%;
     left: 5%;
@@ -187,7 +187,7 @@ h1:before, h2:before {
 .loadbar
 {
     width: 25%;
-    background-color: rgba(140, 140, 140, .9);
+    background-color: rgba(122, 122, 122, 0.9);
     height: 20px;
 
     margin-left: 2px;
@@ -211,4 +211,12 @@ h1:before, h2:before {
 
     position: absolute;
     left: 10%;
+}
+
+footer {
+    position: fixed;
+    bottom: 10px;
+    right: 0;
+    padding: 10px;
+    color: #ffffff;
 }
