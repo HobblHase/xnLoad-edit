@@ -1,9 +1,9 @@
-# xnLoad
+## xnLoad
 
-A loading screen based off GTA San Andreas' Loading Screen.
+# A loadingscreen stlyed like the GTA-V one
 
-Replace the images if you want. (1080 works best)
-Replace the song if you want.
-Change anything you want.
+Replace Image 1-9 yourself if you like to :) Replace the song if you want to.
 
-I won't be updating this.
+Feel free to edit my version im not the official publisher of this resource!!
+
+I'll be updating this if there are bugy or smth.
