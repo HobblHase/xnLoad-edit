@@ -5,13 +5,6 @@
     font-style: normal;
 }
 
-@font-face {
-    font-family: 'MicroExtend';
-    src: url('fonts/MicroExtend.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
-}
-
 * { 
   box-sizing: border-box; 
 }
@@ -24,7 +17,11 @@ html {
 }
 
 .center ul li {
-    font-family: 'MicroExtend';
+    font-family: "Josefin Sans", Bold;
+}
+
+.center h1 {
+    color: blue;
 }
 
 .center{
@@ -38,8 +35,8 @@ html {
 	padding: 2%;
 	background-color: rgba(0, 0, 0, 0.712);
 	color: white;
-	font-size: 1.3rem;
-	font-family: MicroExtend;
+	font-size: 1.65rem;
+	font-family: "Josefin Sans", Bold;
 }
 
 .center h2
