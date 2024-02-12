@@ -1,9 +1,7 @@
 ## xnLoad
 
-# A loadingscreen stlyed like the GTA-V one
+# xnLoad is a FiveM Loadingscreen based on the GTAV and GTA:SA loadingscreen. I used some non-GTA Fonts but feel free to replace :)
 
-Replace Image 1-9 yourself if you like to :) Replace the song if you want to.
-
-Feel free to edit my version im not the official publisher of this resource!!
-
-I'll be updating this if there are bugy or smth.
+I didnt published this script for FiveM i only forked it and sorted it. I also edited some lines of the code.
+Feel free to edit this, but atleast give credits in the code 😀
+The .html is translated into German but simply use deepl to translate it back :)
