@@ -130,7 +130,13 @@ h1:before, h2:before {
 
     color: #fff;
 
-    font-family: "MicroExtend";
+    font-family: "Josefin Sans";
+}
+
+.letni img
+{
+    width: 300px;
+    height: auto; /* auto bc we did the widht and our logo is a cuboid = so that the widht is also 300 */
 }
 
 .letni p
